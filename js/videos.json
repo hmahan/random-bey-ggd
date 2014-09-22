@@ -1,0 +1,156 @@
+var videosJson = [
+  {
+    "_id": "101",
+    "title": "Single Ladies (Put a Ring on it)",
+    "artist": "Beyonce",
+    "album": "I am... Sasha Fierce",
+    "video_id": "USSM20803009"
+  },
+  {
+    "_id": "102",
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "video_id": "USSM20301507"
+  },
+  {
+    "_id": "103",
+    "title": "Lovestoned/I Think She Knows",
+    "artist": "Justin Timberlake",
+    "album": "Future Sex/Love Sounds",
+    "video_id": "USZM20700161"
+  },
+  {
+    "_id": "104",
+    "title": "Otis",
+    "artist": "Jay-Z & Kanye West",
+    "album": "Watch the Throne",
+    "video_id": "USUV71101246"
+  },
+  {
+    "_id": "105",
+    "title": "A Little Party Never Killed Nobody",
+    "artist": "Fergie",
+    "album": "The Great Gatsby Soundtrack",
+    "video_id": "USUV71301141"
+  },
+  {
+    "_id": "106",
+    "title": "Sweater Weather",
+    "artist": "The Neighbourhood",
+    "album": "I Love You.",
+    "video_id": "USSM21300246"
+  },
+  {
+    "_id": "107",
+    "title": "Stronger",
+    "artist": "Kanye West",
+    "album": "Graduation",
+    "video_id": "USUV70704067"
+  },
+  {
+    "_id": "108",
+    "title": "Dark Horse",
+    "artist": "Katy Perry",
+    "album": "PRISM",
+    "video_id": "USUV71400083"
+  },
+  {
+    "_id": "109",
+    "title": "We Can't Stop",
+    "artist": "Miley Cyrus",
+    "album": "Bangerz",
+    "video_id": "USRV81300234"
+  },
+  {
+    "_id": "110",
+    "title": "Poker Face",
+    "artist": "Lady Gaga",
+    "album": "The Fame",
+    "video_id": "USUV70806637"
+  },
+  {
+    "_id": "111",
+    "title": "National Anthem",
+    "artist": "Lana Del Rey",
+    "album": "Born to Die",
+    "video_id": "GBUV71200913"
+  },
+  {
+    "_id": "112",
+    "title": "Toxic",
+    "artist": "Britney Spears",
+    "album": "Toxic",
+    "video_id": "USZM20400003"
+  },
+  {
+    "_id": "113",
+    "title": "Get Me Bodied",
+    "artist": "Beyonce",
+    "album": "B'Day",
+    "video_id": "USSM20702160"
+  },
+  {
+    "_id": "114",
+    "title": "Ring the Alarm",
+    "artist": "Beyonce",
+    "album": "B'Day",
+    "video_id": "USSM20600599"
+  },
+  {
+    "_id": "115",
+    "title": "Crazy in Love",
+    "artist": "Beyonce",
+    "album": "Dangerously in Love",
+    "video_id": "USSM20400139"
+  },
+  {
+    "_id": "116",
+    "title": "Diva",
+    "artist": "Beyonce",
+    "album": "I am... Sasha Fierce",
+    "video_id": "USSM20804184"
+  },
+  {
+    "_id": "117",
+    "title": "Pretty Hurts",
+    "artist": "Beyonce",
+    "album": "Beyonce",
+    "video_id": "USSM21302425"
+  },
+  {
+    "_id": "118",
+    "title": "Bootylicious",
+    "artist": "Destiny's Child",
+    "album": "Survivor",
+    "video_id": "USSM20100340"
+  },
+  {
+    "_id": "119",
+    "title": "Say My Name",
+    "artist": "Destiny's Child",
+    "album": "The Writing's on the Wall",
+    "video_id": "USSM20000051"
+  },
+  {
+    "_id": "120",
+    "title": "Hollaback Girl",
+    "artist": "Gwen Stefani",
+    "album": "Love, Angel, Music, Baby",
+    "video_id": "USIV20500287"
+  },
+  {
+    "_id": "121",
+    "title": "Black Widow",
+    "artist": "Iggy Azelea",
+    "album": "The New Classic",
+    "video_id": "GBUV71400680"
+  },
+  {
+    "_id": "122",
+    "title": "We Found Love",
+    "artist": "Rihanna",
+    "album": "Talk That Talk",
+    "video_id": "USUV71101839"
+  },
+]
