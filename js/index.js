@@ -25,4 +25,6 @@ $(document).ready(function(e) {
     return array_pop(videosJson, i);
   }();
 
+  $('.next_button').click(get_random_video());
+
 });
