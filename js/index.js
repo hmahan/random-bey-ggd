@@ -23,8 +23,13 @@ $(document).ready(function(e) {
     console.log("get_random_video called");
     var i = Math.floor((Math.random()*videosJson.length));
     return array_pop(videosJson, i);
-  }();
+  };
 
-  $('.next_button').click(get_random_video());
+  $('.next_button').click(function() {
+    $('.random_video').remove();
+    get_random_video();
+  });
+
+  get_random_video();
 
 });
